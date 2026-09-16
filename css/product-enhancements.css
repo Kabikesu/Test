@@ -1,0 +1,111 @@
+/* =========================================================
+   DXN NEPAL PRODUCT CATALOGUE ENHANCEMENTS
+========================================================= */
+
+.product-card-image {
+    position: relative;
+    min-height: 220px;
+    background: linear-gradient(135deg, #fafaf8 0%, #f1f1ed 100%);
+}
+
+/* Product images are now clean when a real image is available. */
+.product-card-image img {
+    position: relative;
+    z-index: 1;
+    min-width: 70px;
+    min-height: 70px;
+}
+
+.product-card-image img:not([src]),
+.product-card-image img[src=""] {
+    opacity: 0;
+}
+
+.product-card-topline {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 15px;
+    min-height: 31px;
+}
+
+.product-card-topline .product-card-category {
+    margin-bottom: 0;
+}
+
+.product-rating {
+    margin: 10px 0 12px;
+    color: #d49b20;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+
+.product-rating span {
+    margin-left: 5px;
+    color: var(--text-light);
+    font-size: 11px;
+    letter-spacing: 0;
+}
+
+.product-feature-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 7px;
+    margin: 0 0 15px;
+}
+
+.product-feature-list span {
+    padding: 6px 9px;
+    border: 1px solid rgba(181,18,27,.12);
+    background: rgba(181,18,27,.045);
+    color: var(--dark);
+    font-size: 11px;
+    line-height: 1.3;
+}
+
+.product-card-meta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+.product-card-meta span {
+    color: var(--text-light);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: .7px;
+}
+
+.product-card-meta strong {
+    text-align: right;
+}
+
+.product-modal-image {
+    position: relative;
+}
+
+/* Do not display the old image-update message over real product photos. */
+.product-modal-image::after {
+    display: none;
+}
+
+@media (max-width: 576px) {
+    .product-card-image {
+        min-height: 220px;
+    }
+
+    .product-card-topline {
+        display: block;
+    }
+
+    .product-status {
+        position: static;
+        display: inline-block;
+        margin-top: 9px;
+    }
+
+    .product-card h3 {
+        margin-right: 0;
+    }
+}

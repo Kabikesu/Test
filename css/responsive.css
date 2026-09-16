@@ -1,0 +1,698 @@
+/* =========================================================
+   DXN MANUFACTURING NEPAL
+   RESPONSIVE STYLESHEET
+========================================================= */
+
+/* =========================================================
+   LARGE TABLETS / SMALL DESKTOP
+   1200px and below
+========================================================= */
+
+@media (max-width: 1200px) {
+    .main-nav {
+        gap: 18px;
+    }
+    .main-nav a {
+        font-size: 12px;
+    }
+    .feature-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* =========================================================
+   TABLETS
+   992px and below
+========================================================= */
+
+@media (max-width: 992px) {
+
+    .section {
+        padding: 80px 0;
+    }
+
+    /* ---------- Header ---------- */
+
+    .header-container {
+        min-height: 72px;
+    }
+    .logo img {
+        width: 130px;
+    }
+    .menu-toggle {
+        display: block;
+        position: relative;
+        z-index: 1001;
+    }
+    .main-nav {
+        position: fixed;
+        top: 72px;
+        right: -100%;
+        width: min(320px, 85%);
+        height: calc(100vh - 72px);
+        padding: 30px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0;
+        background: var(--white);
+        box-shadow: -10px 0 30px rgba(0, 0, 0, 0.1);
+        transition: right 0.35s ease;
+        overflow-y: auto;
+    }
+    .main-nav.active {
+        right: 0;
+    }
+    .main-nav a {
+        width: 100%;
+        padding: 15px 0;
+        border-bottom: 1px solid var(--border);
+        font-size: 14px;
+    }
+    .main-nav a::after {
+        display: none;
+    }
+
+    /* ---------- Hero ---------- */
+
+    .hero {
+        min-height: 620px;
+    }
+    .hero-content {
+        max-width: 700px;
+    }
+    .hero h1 {
+        font-size: clamp(40px, 6vw, 60px);
+    }
+
+    /* ---------- Introduction ---------- */
+
+    .intro-grid {
+        grid-template-columns: 1fr;
+        gap: 45px;
+    }
+    .section-image img {
+        height: 450px;
+    }
+
+    /* ---------- Quality ---------- */
+
+    .quality-grid {
+        grid-template-columns: 1fr;
+        gap: 45px;
+    }
+    .quality-grid .section-image {
+        order: -1;
+    }
+
+    /* ---------- Products ---------- */
+
+    .product-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    /* ---------- Footer ---------- */
+
+    .footer-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 40px;
+    }
+}
+
+/* =========================================================
+   MOBILE LANDSCAPE / SMALL TABLETS
+   768px and below
+========================================================= */
+
+@media (max-width: 768px) {
+
+    .section {
+        padding: 65px 0;
+    }
+    /* ---------- Hero ---------- */
+    .hero {
+        min-height: 580px;
+        background-position: center;
+    }
+    .hero-content {
+        padding: 60px 0;
+    }
+    .hero-label {
+        font-size: 12px;
+    }
+    .hero h1 {
+        font-size: clamp(36px, 9vw, 52px);
+    }
+    .hero p {
+        font-size: 16px;
+    }
+    .hero-buttons {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .hero-buttons .btn {
+        width: 100%;
+        max-width: 320px;
+    }
+
+    /* ---------- Section headings ---------- */
+    .section-heading {
+        margin-bottom: 40px;
+    }
+    .section-heading h2,
+    .section-content h2 {
+        font-size: 34px;
+    }
+
+    /* ---------- Feature cards ---------- */
+
+    .feature-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .feature-card {
+        padding: 28px 22px;
+    }
+
+    /* ---------- Sustainability ---------- */
+
+    .sustainability-preview {
+        min-height: 450px;
+    }
+
+    .sustainability-content h2 {
+        font-size: 42px;
+    }
+
+
+    /* ---------- Products ---------- */
+
+    .product-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .product-card > img {
+        height: 230px;
+    }
+
+
+    /* ---------- CTA ---------- */
+
+    .cta-content {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+}
+/* =========================================================
+   ABOUT PAGE RESPONSIVE
+========================================================= */
+
+/* =========================================================
+   TABLET / SMALL DESKTOP
+   992px and below
+========================================================= */
+
+@media (max-width: 992px) {
+
+    /* Page Hero */
+    .page-hero {
+        min-height: 500px;
+    }
+
+    .page-hero-content {
+        max-width: 700px;
+    }
+
+    .page-hero-content h1 {
+        font-size: clamp(42px, 6vw, 58px);
+    }
+
+    /* About Intro */
+    .about-intro-grid {
+        grid-template-columns: 1fr;
+        gap: 40px;
+    }
+
+    .about-image {
+        width: 100%;
+    }
+
+    /* History */
+    .about-history-grid {
+        grid-template-columns: 1fr;
+        gap: 40px;
+    }
+
+    /* Founder */
+    .founder-grid {
+        grid-template-columns: 1fr;
+        gap: 40px;
+    }
+
+    /* Concept */
+    .concept-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    /* Nepal */
+    .nepal-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    /* Commitment */
+    .commitment-grid {
+        grid-template-columns: 1fr;
+        gap: 40px;
+    }
+
+    .commitment-image {
+        order: -1;
+    }
+
+    /* Philosophy */
+    .philosophy-box {
+        padding: 55px 45px;
+    }
+
+    /* About CTA */
+    .cta-inner {
+        gap: 35px;
+    }
+
+}
+
+
+/* =========================================================
+   MOBILE
+   768px and below
+========================================================= */
+
+@media (max-width: 768px) {
+
+    /* Page Hero */
+    .page-hero {
+        min-height: 460px;
+    }
+
+    .page-hero-content {
+        padding: 0 20px;
+    }
+
+    .page-hero-content h1 {
+        font-size: clamp(36px, 8vw, 48px);
+        line-height: 1.15;
+    }
+
+    .page-hero-content p {
+        font-size: 16px;
+    }
+
+    /* About Intro */
+    .about-intro-grid {
+        gap: 30px;
+    }
+
+    .about-content h3 {
+        font-size: 28px;
+    }
+
+    /* History */
+    .history-highlight {
+        padding: 45px 30px;
+    }
+
+    .history-number {
+        font-size: 70px;
+    }
+
+    /* Founder */
+    .founder-grid {
+        gap: 30px;
+    }
+
+    .founder-content h2 {
+        font-size: 36px;
+    }
+
+    /* Concept */
+    .concept-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .concept-card {
+        padding: 35px 25px;
+    }
+
+    /* Philosophy */
+    .philosophy-box {
+        padding: 45px 30px;
+    }
+
+    .philosophy-box h2 {
+        font-size: 36px;
+    }
+
+    /* Nepal */
+    .nepal-grid {
+        grid-template-columns: 1fr;
+    }
+
+    /* Commitment */
+    .commitment-grid {
+        gap: 30px;
+    }
+
+    .commitment-content h2 {
+        font-size: 36px;
+    }
+
+    /* CTA */
+    .cta-inner {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .cta-actions {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+
+}
+
+
+/* =========================================================
+   SMALL MOBILE
+   576px and below
+========================================================= */
+
+@media (max-width: 576px) {
+
+    /* Page Hero */
+    .page-hero {
+        min-height: 500px;
+    }
+
+    .page-hero-content {
+        padding: 0 10px;
+    }
+
+    .page-hero-content h1 {
+        font-size: 34px;
+    }
+
+    .page-hero-content p {
+        font-size: 15px;
+    }
+
+    /* About Image */
+    .about-image img,
+    .founder-image img,
+    .commitment-image img {
+        width: 100%;
+        height: auto;
+    }
+
+    /* About Content */
+    .about-content h3 {
+        font-size: 25px;
+    }
+
+    /* History */
+    .history-highlight {
+        padding: 35px 25px;
+    }
+
+    .history-number {
+        font-size: 58px;
+    }
+
+    /* Founder */
+    .founder-content h2 {
+        font-size: 32px;
+    }
+
+    /* Concept */
+    .concept-card {
+        padding: 30px 22px;
+    }
+
+    /* Philosophy */
+    .philosophy-box {
+        padding: 40px 22px;
+    }
+
+    .philosophy-box h2 {
+        font-size: 30px;
+    }
+
+    /* Nepal */
+    .nepal-card {
+        padding: 30px 22px;
+    }
+
+    /* Commitment */
+    .commitment-content h2 {
+        font-size: 30px;
+    }
+
+    /* CTA */
+    .cta-inner {
+        gap: 25px;
+    }
+
+    .cta-actions {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .cta-actions .btn {
+        width: 100%;
+        text-align: center;
+    }
+
+}
+
+/* =========================================================
+   MOBILE
+   576px and below
+========================================================= */
+
+@media (max-width: 576px) {
+
+    .container {
+        width: min(90%, var(--container-width));
+    }
+
+    .section {
+        padding: 55px 0;
+    }
+
+
+    /* ---------- Header ---------- */
+
+    .header-container {
+        min-height: 68px;
+    }
+
+    .logo img {
+        width: 115px;
+    }
+
+    .main-nav {
+        top: 68px;
+
+        height: calc(100vh - 68px);
+
+        width: 100%;
+    }
+
+
+    /* ---------- Hero ---------- */
+
+    .hero {
+        min-height: 620px;
+    }
+
+    .hero-content {
+        padding: 50px 0;
+    }
+
+    .hero h1 {
+        margin-bottom: 20px;
+
+        font-size: 39px;
+        line-height: 1.1;
+    }
+
+    .hero p {
+        margin-bottom: 28px;
+
+        font-size: 15px;
+    }
+
+    .hero-buttons .btn {
+        max-width: none;
+    }
+
+
+    /* ---------- Section heading ---------- */
+
+    .section-heading h2,
+    .section-content h2 {
+        font-size: 30px;
+    }
+
+    .section-heading p {
+        font-size: 15px;
+    }
+
+
+    /* ---------- Images ---------- */
+
+    .section-image img {
+        height: 330px;
+    }
+
+
+    /* ---------- Features ---------- */
+
+    .feature-grid {
+        grid-template-columns: 1fr;
+
+        gap: 15px;
+    }
+
+    .feature-card {
+        padding: 25px;
+    }
+
+
+    /* ---------- Quality ---------- */
+
+    .quality-list li {
+        align-items: flex-start;
+
+        font-size: 14px;
+    }
+
+
+    /* ---------- Sustainability ---------- */
+
+    .sustainability-preview {
+        min-height: 500px;
+    }
+
+    .sustainability-content h2 {
+        font-size: 36px;
+    }
+
+    .sustainability-content p {
+        font-size: 15px;
+    }
+
+
+    /* ---------- Products ---------- */
+
+    .product-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .product-card > img {
+        height: 260px;
+    }
+
+
+    /* ---------- CTA ---------- */
+
+    .cta-section {
+        padding: 55px 0;
+    }
+
+    .cta-content h2 {
+        font-size: 30px;
+    }
+
+    .cta-content p {
+        font-size: 14px;
+    }
+
+    .cta-content .btn {
+        width: 100%;
+    }
+
+
+    /* ---------- Footer ---------- */
+
+    .footer-grid {
+        grid-template-columns: 1fr;
+
+        gap: 35px;
+
+        padding: 55px 0;
+    }
+
+    .footer-bottom {
+        padding: 18px 0;
+    }
+
+    .footer-bottom p {
+        font-size: 11px;
+    }
+
+}
+
+
+/* =========================================================
+   VERY SMALL MOBILE
+   400px and below
+========================================================= */
+
+@media (max-width: 400px) {
+
+    .hero h1 {
+        font-size: 34px;
+    }
+
+    .hero-label {
+        font-size: 11px;
+        letter-spacing: 1.5px;
+    }
+
+    .section-heading h2,
+    .section-content h2 {
+        font-size: 27px;
+    }
+
+    .section-image img {
+        height: 280px;
+    }
+
+    .sustainability-content h2 {
+        font-size: 32px;
+    }
+
+}
+
+
+/* =========================================================
+   REDUCED MOTION
+========================================================= */
+
+@media (prefers-reduced-motion: reduce) {
+
+    html {
+        scroll-behavior: auto;
+    }
+
+    *,
+    *::before,
+    *::after {
+        transition-duration: 0.01ms !important;
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+    }
+
+}

@@ -1,0 +1,679 @@
+{
+  "generated": true,
+  "folders": {
+    "factory": [
+      {
+        "src": "images/factory/factory-intro.jpg?v=17de19ad34e2",
+        "path": "factory/factory-intro.jpg",
+        "name": "Factory Intro",
+        "type": "image",
+        "version": "17de19ad34e2"
+      },
+      {
+        "src": "images/factory/founder.jpg?v=f130f4ac7055",
+        "path": "factory/founder.jpg",
+        "name": "Founder",
+        "type": "image",
+        "version": "f130f4ac7055"
+      }
+    ],
+    "gallery/events/Environment Day": [
+      {
+        "src": "images/gallery/events/Environment Day/02.jpeg?v=c348dfb3127e",
+        "path": "gallery/events/Environment Day/02.jpeg",
+        "name": "02",
+        "type": "image",
+        "version": "c348dfb3127e"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/03.jpeg?v=756ecadaf372",
+        "path": "gallery/events/Environment Day/03.jpeg",
+        "name": "03",
+        "type": "image",
+        "version": "756ecadaf372"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/04.jpeg?v=3e8dacae9887",
+        "path": "gallery/events/Environment Day/04.jpeg",
+        "name": "04",
+        "type": "image",
+        "version": "3e8dacae9887"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/06.jpeg?v=74ee1de2d167",
+        "path": "gallery/events/Environment Day/06.jpeg",
+        "name": "06",
+        "type": "image",
+        "version": "74ee1de2d167"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/10.jpeg?v=78fb59b00256",
+        "path": "gallery/events/Environment Day/10.jpeg",
+        "name": "10",
+        "type": "image",
+        "version": "78fb59b00256"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/12.jpeg?v=9aa6b7e8f0e4",
+        "path": "gallery/events/Environment Day/12.jpeg",
+        "name": "12",
+        "type": "image",
+        "version": "9aa6b7e8f0e4"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/13.jpeg?v=4c5368e0ae47",
+        "path": "gallery/events/Environment Day/13.jpeg",
+        "name": "13",
+        "type": "image",
+        "version": "4c5368e0ae47"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/16.jpeg?v=76f924bd710d",
+        "path": "gallery/events/Environment Day/16.jpeg",
+        "name": "16",
+        "type": "image",
+        "version": "76f924bd710d"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/17.jpeg?v=ce6dcaf2b990",
+        "path": "gallery/events/Environment Day/17.jpeg",
+        "name": "17",
+        "type": "image",
+        "version": "ce6dcaf2b990"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/18.jpeg?v=dbf5ad2c6eb6",
+        "path": "gallery/events/Environment Day/18.jpeg",
+        "name": "18",
+        "type": "image",
+        "version": "dbf5ad2c6eb6"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/19.jpeg?v=f2d55a7240e6",
+        "path": "gallery/events/Environment Day/19.jpeg",
+        "name": "19",
+        "type": "image",
+        "version": "f2d55a7240e6"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/20.jpeg?v=b44de13e5b40",
+        "path": "gallery/events/Environment Day/20.jpeg",
+        "name": "20",
+        "type": "image",
+        "version": "b44de13e5b40"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/22.jpeg?v=585c5998e8eb",
+        "path": "gallery/events/Environment Day/22.jpeg",
+        "name": "22",
+        "type": "image",
+        "version": "585c5998e8eb"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/23.jpeg?v=1cbdaa724dd8",
+        "path": "gallery/events/Environment Day/23.jpeg",
+        "name": "23",
+        "type": "image",
+        "version": "1cbdaa724dd8"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/25.jpeg?v=d4a9ec4f6dc5",
+        "path": "gallery/events/Environment Day/25.jpeg",
+        "name": "25",
+        "type": "image",
+        "version": "d4a9ec4f6dc5"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/28.jpeg?v=2b424334149a",
+        "path": "gallery/events/Environment Day/28.jpeg",
+        "name": "28",
+        "type": "image",
+        "version": "2b424334149a"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/29.jpeg?v=54a7f85c120a",
+        "path": "gallery/events/Environment Day/29.jpeg",
+        "name": "29",
+        "type": "image",
+        "version": "54a7f85c120a"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/30.jpeg?v=69c21a1eb0b4",
+        "path": "gallery/events/Environment Day/30.jpeg",
+        "name": "30",
+        "type": "image",
+        "version": "69c21a1eb0b4"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/32.jpeg?v=c37836493883",
+        "path": "gallery/events/Environment Day/32.jpeg",
+        "name": "32",
+        "type": "image",
+        "version": "c37836493883"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/33.jpeg?v=d083aed24ff2",
+        "path": "gallery/events/Environment Day/33.jpeg",
+        "name": "33",
+        "type": "image",
+        "version": "d083aed24ff2"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/34.jpeg?v=cc383529f24d",
+        "path": "gallery/events/Environment Day/34.jpeg",
+        "name": "34",
+        "type": "image",
+        "version": "cc383529f24d"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/35.jpeg?v=564826f17abc",
+        "path": "gallery/events/Environment Day/35.jpeg",
+        "name": "35",
+        "type": "image",
+        "version": "564826f17abc"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/36.jpeg?v=6218c782f879",
+        "path": "gallery/events/Environment Day/36.jpeg",
+        "name": "36",
+        "type": "image",
+        "version": "6218c782f879"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/37.jpeg?v=177939e3ba4e",
+        "path": "gallery/events/Environment Day/37.jpeg",
+        "name": "37",
+        "type": "image",
+        "version": "177939e3ba4e"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/38.jpeg?v=1957ec3fe9ed",
+        "path": "gallery/events/Environment Day/38.jpeg",
+        "name": "38",
+        "type": "image",
+        "version": "1957ec3fe9ed"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/39.jpeg?v=f240bb3029b5",
+        "path": "gallery/events/Environment Day/39.jpeg",
+        "name": "39",
+        "type": "image",
+        "version": "f240bb3029b5"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/41.jpeg?v=02831f96b0a7",
+        "path": "gallery/events/Environment Day/41.jpeg",
+        "name": "41",
+        "type": "image",
+        "version": "02831f96b0a7"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/43.jpeg?v=852880846dab",
+        "path": "gallery/events/Environment Day/43.jpeg",
+        "name": "43",
+        "type": "image",
+        "version": "852880846dab"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/47.jpeg?v=dd4694ab8d0a",
+        "path": "gallery/events/Environment Day/47.jpeg",
+        "name": "47",
+        "type": "image",
+        "version": "dd4694ab8d0a"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/48.jpeg?v=54efca52955f",
+        "path": "gallery/events/Environment Day/48.jpeg",
+        "name": "48",
+        "type": "image",
+        "version": "54efca52955f"
+      },
+      {
+        "src": "images/gallery/events/Environment Day/49.jpeg?v=7555bcc53ddb",
+        "path": "gallery/events/Environment Day/49.jpeg",
+        "name": "49",
+        "type": "image",
+        "version": "7555bcc53ddb"
+      }
+    ],
+    "gallery/events/Inauguration Day": [
+      {
+        "src": "images/gallery/events/Inauguration Day/Inauguration 2.png?v=17de19ad34e2",
+        "path": "gallery/events/Inauguration Day/Inauguration 2.png",
+        "name": "Inauguration 2",
+        "type": "image",
+        "version": "17de19ad34e2"
+      },
+      {
+        "src": "images/gallery/events/Inauguration Day/Inauguration12.JPG?v=4125c5ddace9",
+        "path": "gallery/events/Inauguration Day/Inauguration12.JPG",
+        "name": "Inauguration12",
+        "type": "image",
+        "version": "4125c5ddace9"
+      },
+      {
+        "src": "images/gallery/events/Inauguration Day/Inauguration15.png?v=e6778ba8aa57",
+        "path": "gallery/events/Inauguration Day/Inauguration15.png",
+        "name": "Inauguration15",
+        "type": "image",
+        "version": "e6778ba8aa57"
+      },
+      {
+        "src": "images/gallery/events/Inauguration Day/Inauguration21.png?v=4852671dae45",
+        "path": "gallery/events/Inauguration Day/Inauguration21.png",
+        "name": "Inauguration21",
+        "type": "image",
+        "version": "4852671dae45"
+      },
+      {
+        "src": "images/gallery/events/Inauguration Day/Inauguration24.png?v=62f273689d12",
+        "path": "gallery/events/Inauguration Day/Inauguration24.png",
+        "name": "Inauguration24",
+        "type": "image",
+        "version": "62f273689d12"
+      },
+      {
+        "src": "images/gallery/events/Inauguration Day/Inauguration25.png?v=5c5cf4238fe0",
+        "path": "gallery/events/Inauguration Day/Inauguration25.png",
+        "name": "Inauguration25",
+        "type": "image",
+        "version": "5c5cf4238fe0"
+      },
+      {
+        "src": "images/gallery/events/Inauguration Day/Inauguration26.png?v=705e4793457b",
+        "path": "gallery/events/Inauguration Day/Inauguration26.png",
+        "name": "Inauguration26",
+        "type": "image",
+        "version": "705e4793457b"
+      },
+      {
+        "src": "images/gallery/events/Inauguration Day/Inauguration27.png?v=cc98f7ed4842",
+        "path": "gallery/events/Inauguration Day/Inauguration27.png",
+        "name": "Inauguration27",
+        "type": "image",
+        "version": "cc98f7ed4842"
+      },
+      {
+        "src": "images/gallery/events/Inauguration Day/Inauguration37.png?v=9e6e7156ecbf",
+        "path": "gallery/events/Inauguration Day/Inauguration37.png",
+        "name": "Inauguration37",
+        "type": "image",
+        "version": "9e6e7156ecbf"
+      },
+      {
+        "src": "images/gallery/events/Inauguration Day/Inauguration38.png?v=4fba9f11aa63",
+        "path": "gallery/events/Inauguration Day/Inauguration38.png",
+        "name": "Inauguration38",
+        "type": "image",
+        "version": "4fba9f11aa63"
+      },
+      {
+        "src": "images/gallery/events/Inauguration Day/Inauguration41.png?v=49caf7ab54b8",
+        "path": "gallery/events/Inauguration Day/Inauguration41.png",
+        "name": "Inauguration41",
+        "type": "image",
+        "version": "49caf7ab54b8"
+      },
+      {
+        "src": "images/gallery/events/Inauguration Day/Inauguration42.png?v=e544f2bb531b",
+        "path": "gallery/events/Inauguration Day/Inauguration42.png",
+        "name": "Inauguration42",
+        "type": "image",
+        "version": "e544f2bb531b"
+      },
+      {
+        "src": "images/gallery/events/Inauguration Day/Inauguration46.png?v=df8d9be403ab",
+        "path": "gallery/events/Inauguration Day/Inauguration46.png",
+        "name": "Inauguration46",
+        "type": "image",
+        "version": "df8d9be403ab"
+      },
+      {
+        "src": "images/gallery/events/Inauguration Day/Inauguration56.png?v=92af346251b4",
+        "path": "gallery/events/Inauguration Day/Inauguration56.png",
+        "name": "Inauguration56",
+        "type": "image",
+        "version": "92af346251b4"
+      },
+      {
+        "src": "images/gallery/events/Inauguration Day/Inauguration57.png?v=79472e457074",
+        "path": "gallery/events/Inauguration Day/Inauguration57.png",
+        "name": "Inauguration57",
+        "type": "image",
+        "version": "79472e457074"
+      },
+      {
+        "src": "images/gallery/events/Inauguration Day/Inauguration63.png?v=458bbe83a064",
+        "path": "gallery/events/Inauguration Day/Inauguration63.png",
+        "name": "Inauguration63",
+        "type": "image",
+        "version": "458bbe83a064"
+      },
+      {
+        "src": "images/gallery/events/Inauguration Day/Inauguration69.jpg?v=4d10690cf1f5",
+        "path": "gallery/events/Inauguration Day/Inauguration69.jpg",
+        "name": "Inauguration69",
+        "type": "image",
+        "version": "4d10690cf1f5"
+      },
+      {
+        "src": "images/gallery/events/Inauguration Day/Inauguration80.jpg?v=dddb8ee8e2f7",
+        "path": "gallery/events/Inauguration Day/Inauguration80.jpg",
+        "name": "Inauguration80",
+        "type": "image",
+        "version": "dddb8ee8e2f7"
+      },
+      {
+        "src": "images/gallery/events/Inauguration Day/Inauguration82.jpg?v=7313695ddf6a",
+        "path": "gallery/events/Inauguration Day/Inauguration82.jpg",
+        "name": "Inauguration82",
+        "type": "image",
+        "version": "7313695ddf6a"
+      }
+    ],
+    "hero": [
+      {
+        "src": "images/hero/factory-main.png?v=4a5f217e8572",
+        "path": "hero/factory-main.png",
+        "name": "Factory Main",
+        "type": "image",
+        "version": "4a5f217e8572"
+      }
+    ],
+    "logo": [
+      {
+        "src": "images/logo/dxn-logo.jpeg?v=f204e9fda960",
+        "path": "logo/dxn-logo.jpeg",
+        "name": "Dxn Logo",
+        "type": "image",
+        "version": "f204e9fda960"
+      },
+      {
+        "src": "images/logo/dxn-logo.png?v=390d75125daa",
+        "path": "logo/dxn-logo.png",
+        "name": "Dxn Logo",
+        "type": "image",
+        "version": "390d75125daa"
+      }
+    ],
+    "products/coffee": [
+      {
+        "src": "images/products/coffee/Cocozhi.jpg?v=14b444ea4fba",
+        "path": "products/coffee/Cocozhi.jpg",
+        "name": "Cocozhi",
+        "type": "image",
+        "version": "14b444ea4fba"
+      },
+      {
+        "src": "images/products/coffee/Cordyceps Coffee 3 in 1.jpg?v=ee2d7a943d8a",
+        "path": "products/coffee/Cordyceps Coffee 3 in 1.jpg",
+        "name": "Cordyceps Coffee 3 In 1",
+        "type": "image",
+        "version": "ee2d7a943d8a"
+      },
+      {
+        "src": "images/products/coffee/Cordyceys coffe.jpeg?v=d44761d1a34f",
+        "path": "products/coffee/Cordyceys coffe.jpeg",
+        "name": "Cordyceys Coffe",
+        "type": "image",
+        "version": "d44761d1a34f"
+      },
+      {
+        "src": "images/products/coffee/Lingzhi Coffee 3 in 1.jpg?v=1df9abdecba4",
+        "path": "products/coffee/Lingzhi Coffee 3 in 1.jpg",
+        "name": "Lingzhi Coffee 3 In 1",
+        "type": "image",
+        "version": "1df9abdecba4"
+      }
+    ],
+    "products/nutraceuticals": [
+      {
+        "src": "images/products/nutraceuticals/Ganocelium GL-90.jpg?v=59e5ee4da9cf",
+        "path": "products/nutraceuticals/Ganocelium GL-90.jpg",
+        "name": "Ganocelium Gl 90",
+        "type": "image",
+        "version": "59e5ee4da9cf"
+      },
+      {
+        "src": "images/products/nutraceuticals/Reishi Gano RG-90.jpg?v=d32184e57404",
+        "path": "products/nutraceuticals/Reishi Gano RG-90.jpg",
+        "name": "Reishi Gano Rg 90",
+        "type": "image",
+        "version": "d32184e57404"
+      },
+      {
+        "src": "images/products/nutraceuticals/Spirulina Powder 50g.jpg?v=6607b93030d7",
+        "path": "products/nutraceuticals/Spirulina Powder 50g.jpg",
+        "name": "Spirulina Powder 50G",
+        "type": "image",
+        "version": "6607b93030d7"
+      }
+    ],
+    "staff": [
+      {
+        "src": "images/staff/aakash-agrahari.jpeg?v=0eb2139cb5b1",
+        "path": "staff/aakash-agrahari.jpeg",
+        "name": "Aakash Agrahari",
+        "type": "image",
+        "version": "0eb2139cb5b1"
+      },
+      {
+        "src": "images/staff/aastha-shrivastav.jpeg?v=a18db48e94ab",
+        "path": "staff/aastha-shrivastav.jpeg",
+        "name": "Aastha Shrivastav",
+        "type": "image",
+        "version": "a18db48e94ab"
+      },
+      {
+        "src": "images/staff/achal-acharya.png?v=8fb98e8d513d",
+        "path": "staff/achal-acharya.png",
+        "name": "Achal Acharya",
+        "type": "image",
+        "version": "8fb98e8d513d"
+      },
+      {
+        "src": "images/staff/arun-kumar-nau.png?v=0b7dcb28540f",
+        "path": "staff/arun-kumar-nau.png",
+        "name": "Arun Kumar Nau",
+        "type": "image",
+        "version": "0b7dcb28540f"
+      },
+      {
+        "src": "images/staff/ashis-mishra.jpeg?v=234e7f6c03fc",
+        "path": "staff/ashis-mishra.jpeg",
+        "name": "Ashis Mishra",
+        "type": "image",
+        "version": "234e7f6c03fc"
+      },
+      {
+        "src": "images/staff/bandana-mishra.png?v=2dc9a4ba4697",
+        "path": "staff/bandana-mishra.png",
+        "name": "Bandana Mishra",
+        "type": "image",
+        "version": "2dc9a4ba4697"
+      },
+      {
+        "src": "images/staff/bikash-chamar.png?v=7358da42455a",
+        "path": "staff/bikash-chamar.png",
+        "name": "Bikash Chamar",
+        "type": "image",
+        "version": "7358da42455a"
+      },
+      {
+        "src": "images/staff/bimal-sinjali-magar.jpeg?v=16b468f0afaf",
+        "path": "staff/bimal-sinjali-magar.jpeg",
+        "name": "Bimal Sinjali Magar",
+        "type": "image",
+        "version": "16b468f0afaf"
+      },
+      {
+        "src": "images/staff/bivash-tiwari.jpeg?v=7313bcf31cbd",
+        "path": "staff/bivash-tiwari.jpeg",
+        "name": "Bivash Tiwari",
+        "type": "image",
+        "version": "7313bcf31cbd"
+      },
+      {
+        "src": "images/staff/brijesh-thakur.png?v=f9e0aff39ffe",
+        "path": "staff/brijesh-thakur.png",
+        "name": "Brijesh Thakur",
+        "type": "image",
+        "version": "f9e0aff39ffe"
+      },
+      {
+        "src": "images/staff/chandra-kumar-tharu.jpeg?v=752a4fbc7f77",
+        "path": "staff/chandra-kumar-tharu.jpeg",
+        "name": "Chandra Kumar Tharu",
+        "type": "image",
+        "version": "752a4fbc7f77"
+      },
+      {
+        "src": "images/staff/dayaram-gaire.jpeg?v=4c87b1432bb1",
+        "path": "staff/dayaram-gaire.jpeg",
+        "name": "Dayaram Gaire",
+        "type": "image",
+        "version": "4c87b1432bb1"
+      },
+      {
+        "src": "images/staff/deep-kumar-chaudhar.jpeg?v=7a1d5fcd73f3",
+        "path": "staff/deep-kumar-chaudhar.jpeg",
+        "name": "Deep Kumar Chaudhar",
+        "type": "image",
+        "version": "7a1d5fcd73f3"
+      },
+      {
+        "src": "images/staff/dipesh-chaudhary.jpeg?v=9448aedc3a1c",
+        "path": "staff/dipesh-chaudhary.jpeg",
+        "name": "Dipesh Chaudhary",
+        "type": "image",
+        "version": "9448aedc3a1c"
+      },
+      {
+        "src": "images/staff/durgadas-mishra.png?v=7fae4f8d4946",
+        "path": "staff/durgadas-mishra.png",
+        "name": "Durgadas Mishra",
+        "type": "image",
+        "version": "7fae4f8d4946"
+      },
+      {
+        "src": "images/staff/executive-chairman.jpg?v=f130f4ac7055",
+        "path": "staff/executive-chairman.jpg",
+        "name": "Executive Chairman",
+        "type": "image",
+        "version": "f130f4ac7055"
+      },
+      {
+        "src": "images/staff/goverdhan-nau.jpeg?v=2797465dba1f",
+        "path": "staff/goverdhan-nau.jpeg",
+        "name": "Goverdhan Nau",
+        "type": "image",
+        "version": "2797465dba1f"
+      },
+      {
+        "src": "images/staff/group pic.jpeg?v=e53c503ed727",
+        "path": "staff/group pic.jpeg",
+        "name": "Group Pic",
+        "type": "image",
+        "version": "e53c503ed727"
+      },
+      {
+        "src": "images/staff/kamal ji.jpeg?v=57406f8e6cf0",
+        "path": "staff/kamal ji.jpeg",
+        "name": "Kamal Ji",
+        "type": "image",
+        "version": "57406f8e6cf0"
+      },
+      {
+        "src": "images/staff/Kamla ghimre.png?v=d34f7da726f0",
+        "path": "staff/Kamla ghimre.png",
+        "name": "Kamla Ghimre",
+        "type": "image",
+        "version": "d34f7da726f0"
+      },
+      {
+        "src": "images/staff/keshav-thakur.jpeg?v=92a4b262613a",
+        "path": "staff/keshav-thakur.jpeg",
+        "name": "Keshav Thakur",
+        "type": "image",
+        "version": "92a4b262613a"
+      },
+      {
+        "src": "images/staff/madhav-belbaase.png?v=b8c9b9d319ce",
+        "path": "staff/madhav-belbaase.png",
+        "name": "Madhav Belbaase",
+        "type": "image",
+        "version": "b8c9b9d319ce"
+      },
+      {
+        "src": "images/staff/nitika-shrivastav.jpeg?v=79fbabd25014",
+        "path": "staff/nitika-shrivastav.jpeg",
+        "name": "Nitika Shrivastav",
+        "type": "image",
+        "version": "79fbabd25014"
+      },
+      {
+        "src": "images/staff/rakesh-karn.jpeg?v=143696a42b47",
+        "path": "staff/rakesh-karn.jpeg",
+        "name": "Rakesh Karn",
+        "type": "image",
+        "version": "143696a42b47"
+      },
+      {
+        "src": "images/staff/ram-kumar-chauhan.png?v=bd963a98023e",
+        "path": "staff/ram-kumar-chauhan.png",
+        "name": "Ram Kumar Chauhan",
+        "type": "image",
+        "version": "bd963a98023e"
+      },
+      {
+        "src": "images/staff/ramraj-chaudhary.png?v=01c207c70210",
+        "path": "staff/ramraj-chaudhary.png",
+        "name": "Ramraj Chaudhary",
+        "type": "image",
+        "version": "01c207c70210"
+      },
+      {
+        "src": "images/staff/ravikant-shukla.png?v=83f0f8fa2f9a",
+        "path": "staff/ravikant-shukla.png",
+        "name": "Ravikant Shukla",
+        "type": "image",
+        "version": "83f0f8fa2f9a"
+      },
+      {
+        "src": "images/staff/regional-head.png?v=de47bf855b02",
+        "path": "staff/regional-head.png",
+        "name": "Regional Head",
+        "type": "image",
+        "version": "de47bf855b02"
+      },
+      {
+        "src": "images/staff/resham-kumar-raut.jpeg?v=9f5e12955c25",
+        "path": "staff/resham-kumar-raut.jpeg",
+        "name": "Resham Kumar Raut",
+        "type": "image",
+        "version": "9f5e12955c25"
+      },
+      {
+        "src": "images/staff/sandeep-chaudhary.png?v=e738d2835f9f",
+        "path": "staff/sandeep-chaudhary.png",
+        "name": "Sandeep Chaudhary",
+        "type": "image",
+        "version": "e738d2835f9f"
+      },
+      {
+        "src": "images/staff/special-assistance.jpeg?v=b392de4998a6",
+        "path": "staff/special-assistance.jpeg",
+        "name": "Special Assistance",
+        "type": "image",
+        "version": "b392de4998a6"
+      },
+      {
+        "src": "images/staff/surajkant-tripathi.jpeg?v=3d84d96fb897",
+        "path": "staff/surajkant-tripathi.jpeg",
+        "name": "Surajkant Tripathi",
+        "type": "image",
+        "version": "3d84d96fb897"
+      }
+    ]
+  }
+}
