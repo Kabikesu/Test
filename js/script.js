@@ -50,9 +50,6 @@ document.addEventListener("DOMContentLoaded", function () {
                 <summary>Gallery</summary>
                 <div class="nav-dropdown-menu">
                     <a href="gallery.html#image-gallery">Image Gallery</a>
-                   /* ==== <a href="gallery.html#video-gallery">Video Gallery</a>
-                    <a href="gallery.html#corporate-events">Corporate Events</a> === */
-
                     <a href="gallery.html#news-press">News &amp; Press</a>
                 </div>
             </details>
