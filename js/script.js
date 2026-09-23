@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", function () {
             <details class="nav-dropdown" data-menu="gallery">
                 <summary>Gallery</summary>
                 <div class="nav-dropdown-menu">
-                    <a href="gallery.html#image-gallery">Image Gallery</a>
+                    <a href="gallery.html#image-gallery">Image & Vedio Gallery</a>
                     <a href="gallery.html#news-press">News &amp; Press</a>
                 </div>
             </details>
